@@ -73,7 +73,8 @@ The system records:
 | Pages per Sheet | 1, 2, 4, 6, 8 |
 | Color Mode | Black & White, Grayscale, Color |
 | Copies | Number of copies produced |
- 
+
+
 These settings help calculate actual paper usage and printing costs.
  
 ### Reporting and Analytics
@@ -87,7 +88,7 @@ Generate reports such as:
 - Duplex printing adoption rate
 - Top printing requestors
 - Printing trends over time
-- Sustainability and resource utilization metrics
+
  
 ---
  
